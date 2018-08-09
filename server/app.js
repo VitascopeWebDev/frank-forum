@@ -15,7 +15,7 @@ app.use(cookieParser());
 //our routes that well create goes here
 app.get('/', (req, res) => {
   res.json({
-    message: 'welcome to frank\'s forum',
+    message: 'welcome to frank\'s forum 👌',
   });
 });
 
